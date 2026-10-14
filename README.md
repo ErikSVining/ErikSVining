@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am currently working on custom code for an autonomous drone that can follow and orbit a person or object.
 
 <!--
 **ErikSVining/ErikSVining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
