@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! 
+My name is Erik Vining.
 I am currently working on custom code for an autonomous drone that can follow and orbit a person or object.
 
 <!--
