@@ -2,5 +2,5 @@ remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Erik Vining's Port Folio
+title: Erik Vining's Portfolio
 description:  This is a place for my work to be displayed for all to see.
