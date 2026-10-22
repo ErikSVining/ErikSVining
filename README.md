@@ -1,6 +1,8 @@
 ## Welcome to my Portfolio 
-My name is Erik Vining.
-I am currently working on custom code for an autonomous drone that can follow and orbit a person or object.
+My name is Erik Vining. I am an Undergraduate student at the University of Washington studying\n
+Computer Science and Systems.
+
+I am currently working on custom code for an autonomous drone that can follow and orbit a person or object.\n
 
 It is based around a Raspberry Pi Zero W, with an onboard camera for object recognition and navigation as well as two ultra-sonic
 sensors for close-in navigation and auto landing.
