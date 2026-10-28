@@ -2,13 +2,6 @@
 My name is Erik Vining. I am an Undergraduate student at the University of Washington studying
 Computer Science and Systems.
 
-I am currently working on custom code for an autonomous drone that can follow and orbit a person or object.
-
-It is based around a Raspberry Pi Zero W, with an onboard camera for object recognition and navigation as well as two ultra-sonic
-sensors for close-in navigation and auto landing.
-
-The drone relies on a JHEMCU GHF722 AIO F7 Flight Controller for flight operations and controls and also includes a video transmitter
-for remote viewing of the drone.
 
 <!--
 **ErikSVining/ErikSVining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
