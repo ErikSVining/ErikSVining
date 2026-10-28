@@ -4,4 +4,10 @@ title: "Projects"
 permalink: /projects
 ---
 
-# Take a look at what I'm working on!
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Ongoing Projects</h1>
+    <p>These are the current projects that I am actively working on.</p>
+  </body>
+</html>
