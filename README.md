@@ -18,7 +18,7 @@ RaspberryPi Zero W logic board that will handle the majority of the computationa
 will be handling the camera input and use image recognition to steer and guide the drone through obstacles
 and to follow targets. It is coded in Python right now, but as the scope widens, new languages may ne needed.
 
-Here is the [repository]([https://github.com/ErikSVining/Quadcopter-Drone-Project]) that will be storing all the code files that I develop for it:
+Here is the [repository](https://github.com/ErikSVining/Quadcopter-Drone-Project) that will be storing all the code files that I develop for it:
 
 ### Rocket Self Contained Guidance System
 
