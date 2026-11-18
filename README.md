@@ -1,4 +1,3 @@
-# Welcome!
 
 My name is Erik Vining. I am an Undergraduate student at the University of Washington studying
 Computer Science and Systems. I am working towards a career in Aerospace and Rocketry.
