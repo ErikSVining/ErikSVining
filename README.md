@@ -53,7 +53,7 @@ Here are some ways to get in contact with me:
 
 Email: [eriksvining@gmail.com](eriksvining@gmail.com)
 
-[LinkedIn Profile](https://linkedin.com/in/eriksvining)
+[![LinkedIn](https;//shields.io)](https://linkedin.com/in/eriksvining)
 
 [GiuHub Profile](https://github.com/ErikSVining)
 
