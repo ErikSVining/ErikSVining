@@ -51,8 +51,10 @@ Here is my [resume](ErikViningResume.pdf) that has more detail about my work exp
 
 Here are some ways to get in contact with me:
 
-Email: eriksvining@gmail.com
-[Linkdin](https://www.linkedin.com/in/eriksvining/)
+Email: [eriksvining@gmail.com](eriksvining@gmail.com)
+
+[LinkedIn Profile](https://linkedin.com/in/eriksvining)
+
 [GiuHub Profile](https://github.com/ErikSVining)
 
 <!--
