@@ -9,6 +9,11 @@ My career goal is to work in the field of aeronautics, designing or building equ
 or spacecraft. I currently am branching out and self-studying in the field of drones and rocketry guidance
 with personal projects in building drones and model rockets.
 
+## My Skills
+
+I am fluent in Java and Python. I work mainly in VS Code and PyCharm when doing any coding work. I also have begun working with CAD software, specifically
+Onshape for 3D modeling and printing applications for my ongoing projects.
+
 ## Projects: Current Works in Progress
 
 ### Quadcopter Drone with RaspberryPi Controller
@@ -18,7 +23,7 @@ RaspberryPi Zero W logic board that will handle the majority of the computationa
 will be handling the camera input and use image recognition to steer and guide the drone through obstacles
 and to follow targets. It is coded in Python right now, but as the scope widens, new languages may ne needed.
 
-Here is the [repository](https://github.com/ErikSVining/Quadcopter-Drone-Project) that will be storing all the code files that I develop for it:
+Links to this project's repository will be added as the project progresses.
 
 ### Rocket Self Contained Guidance System
 
@@ -29,12 +34,8 @@ as GPS for recovery. Also, it will feature onboard stabilization and guidance us
 This project is still very much in the planning and design phase, so more details about system architecture and design will be added as
 it is decided.
 
-Here is the [respository](https://github.com/ErikSVining/Rocket-Guidance-System) that will eventually have all the code for this project.
+Links to this project's repository will be added as the project progresses.
 
-## My Skills
-
-I am fluent in Java and Python. I work mainly in VS Code and PyCharm when doing any coding work. I also have begun working with CAD software, specifically
-Onshape for 3D modeling and printing applications for my ongoing projects.
 
 ## Experience
 
