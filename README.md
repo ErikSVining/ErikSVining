@@ -58,7 +58,8 @@ Email: [eriksvining@gmail.com](eriksvining@gmail.com)
 
 {{ site.linkedin_badge }}
 
-![Static Badge](https://img.shields.io/badge/LinkedIn_Profile-Click_Here-blue?logo=linkedin&link=www.linkedin.com%2Fin%2Feriksvining)
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn_Profile-Click_Here-blue?logo=linkedin&link=www.linkedin.com%2Fin%2Feriksvining">
+
 
 
 [![Static Badge](https://img.shields.io/badge/Github-Profile?logo=github)](https://github.com/ErikSVining)
