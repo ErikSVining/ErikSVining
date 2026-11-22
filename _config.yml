@@ -14,17 +14,10 @@ header_pages:
 
 
 
-#Source - https://stackoverflow.com/a/72954964
-#Posted by Benjamin W.
-#Retrieved 2026-11-22, License - CC BY-SA 4.0
+# Source - https://stackoverflow.com/a/72954964
+# Posted by Benjamin W.
+# Retrieved 2026-11-22, License - CC BY-SA 4.0
 
-
-<script src="https://platform.linkedin.com/badges/js/profile.js"
-  async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium"
-  data-theme="light" data-type="VERTICAL" data-vanity="Erik Vining"
-  data-version="v1">
-  <a class="badge-base__link LI-simple-link"
-    href="https://ca.linkedin.com/in/eriksvining?trk=profile-badge">Erik S Vining 
- </a>
-</div>
+linkedin_badge: |
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="Erik S Vining" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/eriksvining?trk=profile-badge">eriksvining</a></div>
