@@ -58,7 +58,7 @@ Email: [eriksvining@gmail.com](eriksvining@gmail.com)
 
 {{ site.linkedin_badge }}
 
-[![GitHub Profile](https://shields.io/badge/Github-Profile?logo=github)](https://github.com/ErikSVining)
+[![GitHub Profile](https://shields.io/badge/Github-Profile-blue?logo=github)](https://github.com/ErikSVining)
 
 
 
