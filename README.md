@@ -10,6 +10,8 @@ or spacecraft. I currently am branching out and self-studying in the field of dr
 with personal projects in building drones and model rockets.
 
 ## My Skills
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 I am fluent in Java and Python. I work mainly in VS Code and PyCharm when doing any coding work. I also have begun working with CAD software, specifically
 Onshape for 3D modeling and printing applications for my ongoing projects.
@@ -18,10 +20,10 @@ Onshape for 3D modeling and printing applications for my ongoing projects.
 
 ### Quadcopter Drone with RaspberryPi Controller
 
-This is a basic hobby FPV (First Person View) quadcopter drone that I have built and designed with a 
+This is a basic hobby FPV (First Person View) quadcopter drone that I am building and designing with a 
 RaspberryPi Zero W logic board that will handle the majority of the computational work. Specifically, it
-will be handling the camera input and use image recognition to steer and guide the drone through obstacles
-and to follow targets. It is coded in Python right now, but as the scope widens, new languages may ne needed.
+will be handling the camera input and use image recognition to steer and guide the drone around obstacles
+and to follow targets. It is coded in Python right now, but as the scope widens, new languages may be needed.
 
 Links to this project's repository will be added as the project progresses.
 
