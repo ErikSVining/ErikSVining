@@ -61,6 +61,8 @@ Email: [eriksvining@gmail.com](eriksvining@gmail.com)
 
 [GiuHub Profile](https://github.com/ErikSVining)
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&logo=github)
+
 <!--
 **ErikSVining/ErikSVining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
