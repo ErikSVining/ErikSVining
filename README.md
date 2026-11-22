@@ -56,7 +56,8 @@ Here are some ways to get in contact with me:
 Email: [eriksvining@gmail.com](eriksvining@gmail.com)
 
 
-{{ site.linkedin_badge }}
+[![LinkedIn Profile](https://shields.io/badgeLinkedIn_Profile-blue)](https://linkedin/in/eriksvining)
+
 
 [![GitHub Profile](https://shields.io/badge/Github-Profile-blue?logo=github)](https://github.com/ErikSVining)
 
