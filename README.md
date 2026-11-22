@@ -59,7 +59,7 @@ Email: [eriksvining@gmail.com](eriksvining@gmail.com)
 
 [![LinkedIn](https;//shields.io)](https://linkedin.com/in/eriksvining)
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?logo=github&link=https%3A%2F%2Fgithub.com%2FErikSVining)
+![Static Badge](https://img.shields.io/badge/Github-Profile?logo=github&link=https%3A%2F%2Fgithub.com%2FErikSVining)
 
 <!--
 **ErikSVining/ErikSVining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
